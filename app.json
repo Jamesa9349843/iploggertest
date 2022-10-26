@@ -1,7 +1,7 @@
 {
-    "name": "JamesLogger",
+    "name": "iploggertest",
     "description": "Description ka kaam ni h vro",
-    "repository": "James Dalega",
+    "repository": "https://github.com/Jamesa9349843/iploggertest",
     "logo": "https://te.legra.ph/file/62296205396eaeb7f4d1f.jpg",
     "keywords": ["Python","Scrap"],
     "env": {
@@ -12,6 +12,7 @@
         "BOT_API": {
           "description": "Enter your Bot API which you got from @botfather",
           "value": "DK"
-        }
-      }
-  }
+      }
+    }
+  }
+}
