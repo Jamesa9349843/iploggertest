@@ -1,18 +1,17 @@
 {
-    "name": "iploggertest",
-    "description": "Description ka kaam ni h vro",
-    "repository": "https://github.com/Jamesa9349843/iploggertest",
-    "logo": "https://te.legra.ph/file/62296205396eaeb7f4d1f.jpg",
-    "keywords": ["Python","Scrap"],
-    "env": {
-        "OWNER_ID": {
-          "description": "Enter your Telegram user id.",
-          "value": "5271654056"
-        },
-        "BOT_API": {
-          "description": "Enter your Bot API which you got from @botfather",
-          "value": "DK"
+    "name": "GEMMMS",
+    "description": "Description ka kaam ni h vro",
+    "repository": "James Dalega",
+    "logo": "https://te.legra.ph/file/46a70ead25e10c2801efa.png",
+    "keywords": ["Python","Scrap"],
+    "env": {
+        "OWNER_ID": {
+          "description": "Enter your Telegram user id.",
+          "value": "000000000"
+        },
+        "BOT_API": {
+          "description": "Enter your Bot API which you got from @botfather",
+          "value": "DK"
+        }
       }
-    }
   }
-}
